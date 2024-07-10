@@ -1,0 +1,10 @@
+./models/stable-diffusion-v1-5/
+./*.onnx
+./*.cache
+./*.cache.lock
+./*.plan
+./model_repository/clip/1/model.plan
+./model_repository/unet/1/model.plan
+./model_repository/vae/1/model.plan
+./onnx/
+./engine/
